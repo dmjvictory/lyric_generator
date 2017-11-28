@@ -1,15 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-########################################################################
-#
-# Copyright (c) 2017 Baidu.com, Inc. All Rights Reserved
-#
-########################################################################
 
 """
 File: gen_lyrics.py
-Author: dengmingjie(dengmingjie@baidu.com)
-Date: 2017/01/24 11:18:47
+Author: dmjvictory
 """
 
 import os
